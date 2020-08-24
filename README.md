@@ -1,0 +1,1 @@
+This project focus on the need for a centralized job recommendation system that can help to find a job that is the best fit as per the skillsets of a person. We are bringing technology, and machine learning comes together to find a perfect matched job as desired by us. Various sections in this project focus on the latest job trends and skillsets in demand.
